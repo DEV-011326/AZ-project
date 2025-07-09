@@ -1,0 +1,66 @@
+/*
+hover
+putin
+
+normal
+
+*/
+/* transform => scale - rotat - skew */
+.transform-scale-2 {
+    transform: scale(2) !important;
+}
+.transform-rotate-45 {
+    transform: rotate(45deg) !important;
+}
+.transform-rotate-90 {
+    transform: rotate(90deg) !important;
+}
+.transform-rotate-135 {
+    transform: rotate(135deg) !important;
+}
+.transform-rotate-180 {
+    transform: rotate(180deg) !important;
+}
+.transform-rotate-190 {
+    transform: rotate(190deg) !important;
+}
+.transform-rotate-235 {
+    transform: rotate(235deg) !important;
+}
+.transform-rotate-270 {
+    transform: rotate(270deg) !important;
+}
+.transform-rotate-290 {
+    transform: rotate(290deg) !important;
+}
+.transform-rotate-335 {
+    transform: rotate(335deg) !important;
+}
+.transform-rotate-360 {
+    transform: rotate(360deg) !important;
+}
+
+/* animation => name - duration - delay - iteration-count[numbers - infinite] */
+
+/* backgrounds animations */
+.animations-backgrounds-colors {
+    animation: a-b-c-1 5s infinite;
+}
+@keyframes a-b-c-1 {
+    0% {
+        background-color: red;
+    }
+    50% {
+        background-color: blue;
+    }
+    100% {
+        background-color: red;
+    }
+}
+
+/* buttons animationss */
+
+/* inputs animations */
+/* lods animations */
+/* icons animations */
+/* effects animations */

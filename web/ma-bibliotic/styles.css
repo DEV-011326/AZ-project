@@ -1,0 +1,377 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.simpel-border {
+    border: groove 3px white;
+    border-radius: 20px;
+}
+.simpel-style {
+    padding: 10px;
+    background-color: rgb(24, 108, 141);
+}
+
+/* cursors */
+.cursor-pointer {
+    cursor: pointer !important;
+}
+.cursor-alias {
+    cursor: alias;
+}
+.cursor-all-scroll {
+    cursor: all-scroll !important;
+}
+.cursor-cell {
+    cursor: cell !important;
+}
+.cursor-col-resize {
+    cursor: col-resize !important;
+}
+.cursor-copy {
+    cursor: copy !important;
+}
+.cursor-crosshair {
+    cursor: crosshair !important;
+}
+.cursor-e-resize {
+    cursor: e-resize !important;
+}
+.cursor-ew-resize {
+    cursor: ew-resize !important;
+}
+.cursor-grab {
+    cursor: grab !important;
+}
+.hand-cursor {
+    cursor: grab !important;
+}
+.cursor-grabbing {
+    cursor: grabbing !important;
+}
+.cursor-help {
+    cursor: help !important;
+}
+.cursor-move {
+    cursor: move !important;
+}
+.cursor-n-resize {
+    cursor: n-resize !important;
+}
+.cursor-ne-resize {
+    cursor: ne-resize !important;
+}
+.cursor-nesw-resize {
+    cursor: nesw-resize !important;
+}
+.cursor-no-drop {
+    cursor: no-drop !important;
+}
+.cursor-none {
+    cursor: none !important;
+}
+.cursor-not-allowed {
+    cursor: not-allowed !important;
+}
+.cursor-ns-resize {
+    cursor: ns-resize !important;
+}
+.cursor-nw-resize {
+    cursor: nw-resize !important;
+}
+.cursor-nwse-resize {
+    cursor: nwse-resize !important;
+}
+.cursor-progress {
+    cursor: progress !important;
+}
+.cursor-row-resize {
+    cursor: row-resize !important;
+}
+.cursor-s-resize {
+    cursor: s-resize !important;
+}
+.cursor-se-resize {
+    cursor: se-resize !important;
+}
+.cursor-sw-resize {
+    cursor: sw-resize !important;
+}
+.cursor-text {
+    cursor: text !important;
+}
+.cursor-vertical-text {
+    cursor: vertical-text !important;
+}
+.cursor-w-resize {
+    cursor: w-resize !important;
+}
+.cursor-wait {
+    cursor: wait !important;
+}
+.cursor-zoom-in {
+    cursor: zoom-in !important;
+}
+.cursor-zoom-out {
+    cursor: zoom-out !important;
+}
+/* position */
+.fixed {
+    position: fixed !important;
+}
+.absolute {
+    position: absolute !important;
+}
+.relative {
+    position: relative !important;
+}
+
+/* sizes */
+.size-5 {
+    font-size: 5px !important;
+}
+.size-6 {
+    font-size: 6px !important;
+}
+.size-7 {
+    font-size: 7px !important;
+}
+.size-8 {
+    font-size: 8px !important;
+}
+.size-10 {
+    font-size: 10px !important;
+}
+.size-15 {
+    font-size: 15px !important;
+}
+.size-16 {
+    font-size: 16px !important;
+}
+.size-17 {
+    font-size: 17px !important;
+}
+.size-18 {
+    font-size: 18px !important;
+}
+.size-20 {
+    font-size: 20px !important;
+}
+.size-25 {
+    font-size: 25px !important;
+}
+.size-26 {
+    font-size: 26px !important;
+}
+.size-27 {
+    font-size: 27px !important;
+}
+.size-28 {
+    font-size: 28px !important;
+}
+.size-30 {
+    font-size: 30px !important;
+}
+.size-35 {
+    font-size: 35px !important;
+}
+.size-36 {
+    font-size: 36px !important;
+}
+.size-37 {
+    font-size: 37px !important;
+}
+.size-38 {
+    font-size: 38px !important;
+}
+.size-40 {
+    font-size: 40px !important;
+}
+.size-45 {
+    font-size: 45px !important;
+}
+.size-46 {
+    font-size: 46px !important;
+}
+.size-47 {
+    font-size: 47px !important;
+}
+.size-48 {
+    font-size: 48px !important;
+}
+.size-50 {
+    font-size: 50px !important;
+}
+.size-55 {
+    font-size: 55px !important;
+}
+.size-56 {
+    font-size: 56px !important;
+}
+.size-57 {
+    font-size: 57px !important;
+}
+.size-58 {
+    font-size: 58px !important;
+}
+.size-60 {
+    font-size: 60px !important;
+}
+.size-65 {
+    font-size: 65px !important;
+}
+.size-66 {
+    font-size: 66px !important;
+}
+.size-67 {
+    font-size: 67px !important;
+}
+.size-68 {
+    font-size: 68px !important;
+}
+.size-70 {
+    font-size: 70px !important;
+}
+.size-75 {
+    font-size: 75px !important;
+}
+.size-76 {
+    font-size: 76px !important;
+}
+.size-77 {
+    font-size: 77px !important;
+}
+.size-78 {
+    font-size: 78px !important;
+}
+.size-80 {
+    font-size: 80px !important;
+}
+.size-85 {
+    font-size: 85px !important;
+}
+.size-86 {
+    font-size: 86px !important;
+}
+.size-87 {
+    font-size: 87px !important;
+}
+.size-88 {
+    font-size: 88px !important;
+}
+.size-90 {
+    font-size: 90px !important;
+}
+.size-95 {
+    font-size: 95px !important;
+}
+.size-96 {
+    font-size: 96px !important;
+}
+.size-97 {
+    font-size: 97px !important;
+}
+.size-98 {
+    font-size: 98px !important;
+}
+.size-100 {
+    font-size: 100px !important;
+}
+/* fonts weight */
+.weight-bold {
+    font-weight: bold !important;
+}
+.weight-bolder {
+    font-weight: bolder !important;
+}
+.weight-lighter {
+    font-weight: lighter !important;
+}
+.weight-normal {
+    font-weight: normal !important;
+}
+.weight-inherit {
+    font-weight: inherit !important;
+}
+.weight-100 {
+    font-weight: 100 !important;
+}
+.weight-200 {
+    font-weight: 200 !important;
+}
+.weight-300 {
+    font-weight: 300 !important;
+}
+.weight-400 {
+    font-weight: 400 !important;
+}
+.weight-500 {
+    font-weight: 500 !important;
+}
+.weight-600 {
+    font-weight: 600 !important;
+}
+.weight-700 {
+    font-weight: 700 !important;
+}
+.weight-800 {
+    font-weight: 800 !important;
+}
+.weight-900 {
+    font-weight: 900 !important;
+}
+/* fonts */
+.system-font {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+}
+.arial-font {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+.times-font {
+    font-family: 'Times New Roman', Times, serif !important;
+}
+.verdana-font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+.fantasy-font {
+    font-family: fantasy !important;
+}
+.franklin-font {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+.courier-font {
+    font-family: 'Courier New', Courier, monospace !important;
+}
+.sana-gill-font {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+.sana-lucida-font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+.segoe-font {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+.trebuchet-font {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+}
+.cambria-font {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+}
+.georgia-font {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+.impact-font {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+}
+.cursive-font {
+    font-family: cursive !important;
+}
+.monospace-font {
+    font-family: monospace !important;
+}
+.sans-serif-font {
+    font-family: sans-serif !important;
+}
+.serif-font {
+    font-family: serif !important;
+}
