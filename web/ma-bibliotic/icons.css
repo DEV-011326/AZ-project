@@ -1,0 +1,41 @@
+/*
+classic icons
+special icons
+my icons
+social icons
+*/
+/* my icons */
+.amz-logo {
+    border-radius: 50%;
+    border: 5px groove silver;
+    width: 110px;
+    height: 110px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    color: rgb(92, 92, 92);
+}
+.amz-logo p {
+    font-weight: bold;
+    display: inline-flex;
+    font-size: xx-large;
+}
+/* my icons shadowed */
+.amz-logo-shadow {
+    border-radius: 50%;
+    border: 5px groove silver;
+    width: 110px;
+    height: 110px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+    color: rgb(0, 0, 0);
+    box-shadow: -10px 10px 15px black;
+    text-shadow: -4px 8px 5px gray;
+}
+.amz-logo-shadow p {
+    font-weight: bold;
+    display: inline-flex;
+    font-size: xx-large;
+    /* box-shadow: 1px 1px 15px black; */
+}
