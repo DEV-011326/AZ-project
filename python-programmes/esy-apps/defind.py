@@ -13,7 +13,5 @@ def calcul(problem="12+4*3-6/2(2+9)"):
         else:
             if (n.isdigit()):
                 for i in d:
+                    pass
                     
-
-
-calcul()

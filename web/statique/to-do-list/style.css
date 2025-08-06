@@ -1,0 +1,34 @@
+.titre{
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+.add-task-input {
+    width: calc(100% - 60px);
+    padding-left: 20px !important;
+}
+
+.button {
+    max-width: 100% !important;
+    min-width: 30% !important;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+.tasks-vuew-input {
+    width: calc(100% - 60px);
+    padding-left: 20px !important;
+}
+.tasks-vuew-vuew {
+    width: calc(100% - 56px);
+    padding-left: 20px !important;
+    margin: 20px;
+    background-color: aliceblue;
+}
+.task {
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+.task input {
+    width: 35px;
+    height: 35px;
+}
+.checked{
+    text-decoration: line-through;
+    text-decoration-color: red;
+}

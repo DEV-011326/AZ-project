@@ -5,11 +5,33 @@ body {
 
 .simpel-border {
     border: groove 3px white;
-    border-radius: 20px;
 }
 .simpel-style {
     padding: 10px;
     background-color: rgb(24, 108, 141);
+}
+.simpel-menu {
+    margin-left: 300px;
+    margin-top: 80px;
+}
+.simpel-menu a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: all 0.3s ease-in-out;
+}
+.simpel-menu ul li {
+    display: inline;
+}
+.simple-br {
+    background-color: silver;
+    height: 3px;
+    margin: 30px;
+    border: 0px;
 }
 
 /* position */
@@ -22,8 +44,124 @@ body {
 .relative {
     position: relative !important;
 }
+
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.float-top {
+    float: top;
+}
+.float-bottom {
+    float: bottom;
+}
+
 .none {
-    display: none;
+    display: none !important;
+}
+.block {
+    display: block !important;
+}
+.flex {
+    display: flex !important;
+}
+.inline {
+    display: inline !important;
+}
+.grid {
+    display: grid !important;
+}
+.center {
+    text-align: center !important;
+    justify-content: center !important;
+}
+
+.radius-10 {
+    border-radius: 10px;
+}
+.radius-20 {
+    border-radius: 20px;
+}
+.radius-30 {
+    border-radius: 30px;
+}
+.radius-40 {
+    border-radius: 40px;
+}
+.radius-50 {
+    border-radius: 50px;
+}
+.radius-60 {
+    border-radius: 60px;
+}
+.radius-70 {
+    border-radius: 70px;
+}
+.radius-80 {
+    border-radius: 80px;
+}
+.radius-90 {
+    border-radius: 90px;
+}
+.radius-100 {
+    border-radius: 100px;
+}
+
+.margin-5 {
+    margin: 5px !important;
+}
+.margin-6 {
+    margin: 6px !important;
+}
+.margin-8 {
+    margin: 8px !important;
+}
+.margin-10 {
+    margin: 10px !important;
+}
+.margin-20 {
+    margin: 20px !important;
+}
+.margin-40 {
+    margin: 20px !important;
+}
+.margin-60 {
+    margin: 20px !important;
+}
+.margin-80 {
+    margin: 20px !important;
+}
+.margin-100 {
+    margin: 20px !important;
+}
+.padding-5 {
+    padding: 5px !important;
+}
+.padding-6 {
+    padding: 6px !important;
+}
+.padding-8 {
+    padding: 8px !important;
+}
+.padding-10 {
+    padding: 10px !important;
+}
+.padding-20 {
+    padding: 20px !important;
+}
+.padding-40 {
+    padding: 20px !important;
+}
+.padding-60 {
+    padding: 20px !important;
+}
+.padding-80 {
+    padding: 20px !important;
+}
+.padding-100 {
+    padding: 20px !important;
 }
 /* text decoration & transform &  */
 
@@ -187,6 +325,9 @@ body {
     cursor: zoom-out !important;
 }
 /* backgrounds colors */
+.transparent, .background-remov, .heading {
+    background-color: transparent;
+}
 .background-red {
     background-color: red !important;
 }
@@ -256,9 +397,29 @@ body {
 .background-orange {
     background-color: orange !important;
 }
+.background-darkcyan {
+    background-color: darkcyan !important;
+}
+/* colors */
+.color-red {
+    color: red !important;
+}
+.color-green {
+    color: green !important;
+}
+.color-blue {
+    color: blue !important;
+}
+.color-black {
+    color: black !important;
+}
+.color-white {
+    color: white !important;
+}
+
 
 /* fonts weight */
-.weight-bold, .strong {
+.weight-bold, .strong, .bold {
     font-weight: bold !important;
 }
 .weight-bolder {

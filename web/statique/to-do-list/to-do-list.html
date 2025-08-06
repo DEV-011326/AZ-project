@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="http://127.0.0.1:5500/ma-bibliotic/styles.css">
+    <link rel="stylesheet" href="http://127.0.0.1:5500/statique/to-do-list/style.css">
+    <script src="http://127.0.0.1:5500/statique/to-do-list/script.js"></script>
+    <title> ToDo list</title>
+</head>
+<body>
+    <div class="container simpel-border simpel-style background-cornflowerblue margin-100">
+        <p class="titre size-60 center cursive-font bold color-white">To-Do-List</p>
+        <div class="add-task simpel-style background-skyblue margin-20">
+            <input type="text" id="new-task" placeholder="add task" class="add-task-input block bold simpel-border size-25 margin-20 cursive-font padding-10 radius-10">
+            <input type="button" value="add new task" onclick="add_new_task();" class="add-task-button button block bold size-28 margin-20 simpel-border padding-10 background-darkcyan cursive-font radius-10 color-white">
+        </div>
+        <!-- <hr class="br1 simple-border margin-20"> -->
+        <div class="tasks-vuew simpel-style background-skyblue margin-20">
+            <input type="text" id="filter" placeholder="filter-tasks" class="tasks-vuew-input block bold simpel-border size-25 margin-20 cursive-font padding-10 radius-10">
+            <div class="tasks-vuew-vuew radius-20 padding-10">
+            </div>
+            <input type="button" value="clear" class="tasks-vuew-button button block bold size-28 margin-20 simpel-border padding-10 background-darkcyan cursive-font radius-10 color-white">
+        </div>
+    </div>
+    <script type="text/javascript">
+        // console.log(javaEnabled());
+        
+    </script>
+</body>
+</html>
