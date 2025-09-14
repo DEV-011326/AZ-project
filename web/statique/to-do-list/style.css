@@ -1,15 +1,13 @@
 .titre{
-    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    text-shadow: 2px 5px 5px rgb(8, 25, 58);
 }
 .add-task-input {
     width: calc(100% - 60px);
     padding-left: 20px !important;
 }
-
 .button {
     max-width: 100% !important;
     min-width: 30% !important;
-    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 .tasks-vuew-input {
     width: calc(100% - 60px);
@@ -21,7 +19,7 @@
     margin: 20px;
     background-color: aliceblue;
 }
-.task {
+.task, .button {
     text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 .task input {

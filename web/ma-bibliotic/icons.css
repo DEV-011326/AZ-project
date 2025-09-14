@@ -43,13 +43,13 @@ social icons
     /* box-shadow: 1px 1px 15px black; */
 }
 /* social icons */
-.simpel-profile-icon-darck {
+.simple-profile-icon-darck {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     border: 5px solid rgb(0, 0, 0);
 }
-.simpel-profile-icon-darck::before {
+.simple-profile-icon-darck::before {
     display: flex;
     content: "";
     background-color: black;
@@ -59,7 +59,7 @@ social icons
     margin: auto;
     margin-top: 10px;
 }
-.simpel-profile-icon-darck::after {
+.simple-profile-icon-darck::after {
     display: flex;
     content: "";
     background-color: black;
@@ -69,13 +69,13 @@ social icons
     margin: auto;
     margin-top: 10px;
 }
-.simpel-profile-icon-gray {
+.simple-profile-icon-gray {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     border: 5px solid rgb(124, 124, 124);
 }
-.simpel-profile-icon-gray::before {
+.simple-profile-icon-gray::before {
     display: flex;
     content: "";
     background-color: rgb(124, 124, 124);
@@ -85,7 +85,7 @@ social icons
     margin: auto;
     margin-top: 10px;
 }
-.simpel-profile-icon-gray::after {
+.simple-profile-icon-gray::after {
     display: flex;
     content: "";
     background-color: rgb(124, 124, 124);
@@ -95,13 +95,13 @@ social icons
     margin: auto;
     margin-top: 10px;
 }
-.simpel-profile-icon-light {
+.simple-profile-icon-light {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     border: 5px solid rgb(255, 255, 255);
 }
-.simpel-profile-icon-light::before {
+.simple-profile-icon-light::before {
     display: flex;
     content: "";
     background-color: rgb(255, 255, 255);
@@ -111,7 +111,7 @@ social icons
     margin: auto;
     margin-top: 10px;
 }
-.simpel-profile-icon-light::after {
+.simple-profile-icon-light::after {
     display: flex;
     content: "";
     background-color: rgb(255, 255, 255);
@@ -121,13 +121,13 @@ social icons
     margin: auto;
     margin-top: 10px;
 }
-.simpel-about-icon-darck {
+.simple-about-icon-darck {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     border: 5px solid rgb(0, 0, 0);
 }
-.simpel-about-icon-darck::before {
+.simple-about-icon-darck::before {
     content: "?";
     background-color: black;
     display: flex;
@@ -140,13 +140,13 @@ social icons
     margin-left: 5px;
     justify-content: center;
 }
-.simpel-about-icon-light {
+.simple-about-icon-light {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     border: 5px solid rgb(255, 255, 255);
 }
-.simpel-about-icon-light::before {
+.simple-about-icon-light::before {
     content: "?";
     background-color: rgb(255, 255, 255);
     display: flex;
@@ -159,13 +159,13 @@ social icons
     margin-left: 5px;
     justify-content: center;
 }
-.simpel-about-icon-gray {
+.simple-about-icon-gray {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     border: 5px solid rgb(124, 124, 124);
 }
-.simpel-about-icon-gray::before {
+.simple-about-icon-gray::before {
     content: "?";
     background-color: rgb(124, 124, 124);
     display: flex;
@@ -178,13 +178,13 @@ social icons
     margin-left: 5px;
     justify-content: center;
 }
-.simpel-info-icon-darck {
+.simple-info-icon-darck {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     border: 5px solid rgb(0, 0, 0);
 }
-.simpel-info-icon-darck::before {
+.simple-info-icon-darck::before {
     content: "!";
     background-color: black;
     display: flex;
@@ -197,13 +197,13 @@ social icons
     margin-left: 5px;
     justify-content: center;
 }
-.simpel-info-icon-light {
+.simple-info-icon-light {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     border: 5px solid rgb(255, 255, 255);
 }
-.simpel-info-icon-light::before {
+.simple-info-icon-light::before {
     content: "!";
     background-color: rgb(255, 255, 255);
     display: flex;
@@ -216,13 +216,13 @@ social icons
     margin-left: 5px;
     justify-content: center;
 }
-.simpel-info-icon-gray {
+.simple-info-icon-gray {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     border: 5px solid rgb(124, 124, 124);
 }
-.simpel-info-icon-gray::before {
+.simple-info-icon-gray::before {
     content: "!";
     background-color: rgb(124, 124, 124);
     display: flex;
@@ -236,13 +236,13 @@ social icons
     justify-content: center;
 }
 
-.simpel-home-icon-darck {
+.simple-home-icon-darck {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     border: 5px solid rgb(0, 0, 0);
 }
-.simpel-home-icon-darck::before {
+.simple-home-icon-darck::before {
     display: flex;
     content: '';
     background-color: rgb(255, 255, 255);
@@ -256,7 +256,7 @@ social icons
     border-bottom-right-radius: 300px;
     border-top-left-radius: 100%;
 }
-.simpel-home-icon-darck::after {
+.simple-home-icon-darck::after {
     display: flex;
     content: "";
     background-color: black;
